@@ -1,0 +1,5 @@
+Megjelent a 23. Statisztika
+2011-11-07-17-53-02
+Elekes Dávid
+maxorhirek.png
+Teljesen megújult formában jelent meg a Maxor Statisztika 23 kiadása. HTML alapú és a központi nyilvántartó program állította össze automatikusan, az utolsó oldalt kivéve.

@@ -1,0 +1,113 @@
+﻿Maxor Hírhozó
+<p>A Maxor Hírlapja</p>
+<p>A Maxor Hírhozó a Maxor egyik legfontosabb kiadványa, újságja, mely havonta 
+jelenik meg. Fontos Maxor híreket tartalmaz, de emellett még számost 
+érdekességet, cikket is. Beszámol a Maxor statisztikájáról és értesít a legújabb 
+kiadványokról. Főszerkesztője Elekes Dávid.</p>
+<p>Mostantól még több oldalon!</p>
+<p>Utoljára frissítve: 
+  <!-- #BeginDate format:IS1 -->2011-01-29<!-- #EndDate -->
+</p>
+<hr />
+<h3><a name="allr"></a>Jelenlegi állandó rovatok</h3>
+<h4>Humor (&gt;=91)</h4>
+<h4>Humoros képek jó képaláírásokkal.</h4>
+<h4>Vers (&gt;=91)</h4>
+<dl>
+				<dt>Egy Béni Csaba vagy Elekes Dávid által költött vers 
+				publikálása</dt>
+</dl>
+<h4>Hírek a Maxor életéből (&gt;=90)</h4>
+<dl>
+				<dt>Beszámol a legfrisebb Maxor hírekről.</dt>
+</dl>
+<h4>Gondolatok a Hírhozóból (90), Egy gondolat (&gt;=91)</h4>
+<dl>
+				<dt>Egy cikk, jegyzet, a legváltozatosabb témából, például 
+				hitéleti kérdésből. Írja Elekes Gábor.</dt>
+</dl>
+<h4>Rövid Hírek (&gt;=90)</h4>
+<dl>
+				<dt>Maxor Hírek néhány mondatban.</dt>
+</dl>
+<h4>Egy kis programozás (87. kiadástól)</h4>
+<dl>
+				<dt>Egy kis program, melyet megírhatunk és kiprobálhatunk. 
+				Egyelőre csak Windows alatti Visual Basic programokról van szó 
+				benne.</dt>
+</dl>
+<h4>Egy madár (87. kiadától)</h4>
+<dl>
+				<dt>Egy madárfaj rövid bemutatása. Rendszerint a évszaknak 
+				megfelelő faj szerepel a rovatban.</dt>
+</dl>
+<h4>Rövid Maxor Statisztikai adatok (Maxor Info)</h4>
+<dl>
+				<dt>Magáért beszél. Beszámol a Maxor Statisztikában szereplő 
+				legújabb és legfontosabb adatokról: a tagokról és a részlegek 
+				szintjéről.</dt>
+</dl>
+<h4>Események</h4>
+<dl>
+				<dt>A soron következő két ünnep felsorolása.</dt>
+</dl>
+<h3>Régebbi rovatok</h3>
+<h4>Ajánlatok a Maxor oldaláról (&lt;=89)</h4>
+<dl>
+				<dt>Beszámol néhány fejleményről, újdonságról, ami a Maxor 
+				oldalán történt.</dt>
+</dl>
+<h4>Bölcsességek (84., 85., 86. számok)</h4>
+<dl>
+				<dt>Néhány híresség, történelmi személy, művész egy kiemelt 
+				mondata, gondolata.</dt>
+</dl>
+<hr />
+<h3><a name="gyik"></a>A programozási rovathoz kapcsolódó kérdések és válaszok</h3>
+<h4>Hogyan kell ablakot készíteni és hozzá kódot írni Microsoft Visual Basic 
+alatt?</h4>
+<dl>
+				<dt>A Microsoft Office programokban szereplő programozási nyelv, 
+				a Visual Basic for Applications segítségével készíthetünk 
+				makrókat a dokumentumainkba, és ablakokat, párbeszédpaneleket is 
+				alkothatunk.<br />
+				Ehhez indítsuk el a Visual Basicet az Alt+F11 
+				billentyűkombinációval.<br />
+				<img src="pictures/img7.jpg" width="404" height="268" /></dt>
+				<dt>A képen láthatjuk, hogy felhasználói felületünk rendelkezik 
+				egy ablakkal, amelyet mi szerkesztünk, egy <strong>Toolbox</strong>-szal (eszközkészlet), ami 
+				segítségével mindenféle elemet rajzolhatunk az ablakba (gombot, 
+				mezőt, bejelölőt, listát stb.), és még fontos a <strong>Properties</strong> (tulajdonságok) 
+				ablak, mely segítségével a különféle elemek tulajdonságait 
+				állíthatjuk be (Pl: (Name)=név, Caption vagy Text=megjelenő 
+				szöveg stb.) </dt>
+				<dt>Ha <b>kódot szeretnénk írni</b> egy elemhez, <b>kattintsunk duplán rá</b>.<br />
+				Ha le szeretnénk <strong>futtatni</strong> az ablakunkat, kattintsunk az 
+				eszköztár <img src="pictures/img9.gif" /> gombjára (vagy nyomjuk 
+				meg az <strong>F5</strong> billentyűt.)</dt>
+				<dd></dd>
+</dl>
+<h4>Hogyan kell Microsoft Office Makrókat készíteni Office 2007 és Office 2010 
+alatt?</h4>
+<dl>
+				<dt>Makrókészítés Office 2007-ben és 2010-ben: Menjünk a 
+				Developer (Fejlesztőeszközök) fülre. <br />
+				Ha ez nincs, kattintsunk jobb egérgombbal a menüszalagra, és&nbsp; 
+				válasszuk&nbsp; ki a Customize the Ribbon (menüszalag testreszabása) 
+				paarncsot és jelöljük be a megfelelő fület. <br />
+				Ezután menjünk a fülre és kattintsunk a Macros (Makrók) gombra.
+				<br />
+				Írjunk be egy makrónevet és nyomjuk meg a Create (létrehozás) 
+				gombot. <br />
+				Írjuk be a kódot.<br />
+				Futtatáshoz nyomjuk meg az F5 billentyűt.</dt>
+</dl>
+<h4>Hogyan kell makrókat készíteni olyan Microsoft Office programban, ahol nincs 
+menüszalag, hanem menük és eszköztárak vannak?</h4>
+<dl>
+				<dt>Menjünk az Eszközök menü Makró almenü Makrók parancsára.<br />
+				A felbukkanó ablakban írjunk be egy makrónevet.<br />
+				Nyomjuk meg a Létrehozás gombot.<br />
+				Írjuk be a kódot.<br />
+				Futtatáshoz nyomjuk meg az F5 billentyűt.</dt>
+</dl>

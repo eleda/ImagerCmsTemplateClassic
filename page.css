@@ -1,0 +1,27 @@
+﻿a {
+	text-decoration: none;
+	color: #FFE16A;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #80584D;
+	color: #D4D4D4;
+	background-image: url('bkgrnd.PNG');
+}
+
+h1 {
+	color: #FDF384;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 20pt;
+	background-image: url('ul.gif');
+	background-repeat: no-repeat;
+}
+
+ul {
+	list-style-image: url('bullet0.PNG');
+}
+
+p {
+	font-size: 11pt;
+}

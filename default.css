@@ -1,0 +1,166 @@
+﻿.cont h5 {
+	font-size: 12px;
+}
+
+.cont {
+	font-size: 14px;
+	background-color: #222222;
+	padding: 10px;
+}
+
+.leftbar {
+	float: left;
+	width: 200px;
+}
+
+.cont p {
+	font-size: 12pt;
+}
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 14px;
+	background-color: #2e3436;
+	background-repeat: repeat-x;
+	color: #FFF;
+}
+
+.war {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #CC0000;
+	border: thin solid #8C4740;
+	padding: 5px;
+}
+
+.nopicborder {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+a {
+	color: #FAFE56;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #FF3300;
+}
+
+/*
+a:link {
+	color: #800000;
+}
+*/
+.mnuitem a {
+	color: #CCFFFF;
+	text-decoration: none;
+}
+
+.mnuitem a:hover {
+	color: #FFFF99;
+}
+
+.mnuheader {
+	font-size: 14pt;
+	color: #FFFFFF;
+	text-indent: 5px;
+	font-weight: bold;
+	margin-bottom: 15px;
+	margin-top: 15px;
+}
+
+.mnuitem {
+	font-size: 11pt;
+	color: #CCFFFF;
+	text-indent: 15px;
+	height: 20px;
+}
+
+.mnuitem:hover, .mnuitem a:hover {
+	background-color: #999;
+	font-weight: bold;
+	color: #FFF;
+}
+
+.mnuback {
+	font-size: 10pt;
+	color: #FFFFCC;
+	margin: 6px;
+}
+
+.mnuback a {
+	color: #666;
+}
+
+.cont div {
+	float: right;
+}
+
+.cont .tex {
+	font-size: 12pt;
+	line-height: 25px;
+	text-indent: 30px;
+}
+
+
+
+.indpic { //
+	border: 1px outset #999999;
+}
+
+.medlist {
+	background-color: #666666;
+	padding: 10px;
+	border: thin solid #999999;
+	font-size: 8pt;
+}
+
+hr {
+	border: 2px dotted #949374;
+}
+
+.lb {
+	width: 200px;
+	padding: 10px;
+}
+
+.ler .le {
+	float: left;
+	width: 200px;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-right-color: #333;
+}
+
+.ler .ri {
+	margin-left: 240px;
+}
+
+.lis .lisle {
+	float: left;
+}
+
+.lis .lisri {
+	margin-left: 100px;
+}
+
+.index .lef {
+	float: left;
+}
+
+h1 {
+	font-family: 'Lora', sans-serif;
+	font-size: 24pt;
+	font-weight: bold;
+	color: #99FFFF;
+	margin-top: 30px;
+	margin-bottom: 25px;
+}
+
+h2 {
+	font-family: 'Lora', sans-serif;
+}

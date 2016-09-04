@@ -1,0 +1,31 @@
+﻿##
+[item]
+n:Főoldal
+l:main
+[header]
+n:Hírek és blog
+[articles]
+n:IMAGER Hírek
+l:hirek
+[articles]
+n:Maxor Hírek
+l:maxor
+[header]
+n:Képek
+[wholepage]
+n:Galéria
+l:gallery.php
+l:guide/guide.php
+[header]
+n:Letöltések
+[dcenter]
+n:Maxor Hírhozó
+l:maxorhirhozo
+[header]
+n:Médiatár
+[mcenter]
+n:Maxor Videó Televízió
+l:vtvmaxor
+[mcenter]
+n:Maxor Rádió
+l:maxorradio

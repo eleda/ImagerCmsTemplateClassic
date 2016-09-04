@@ -1,0 +1,16 @@
+﻿body {
+	background-color: #865648;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+a {
+	text-decoration: none;
+	color: orange;
+}
+
+a:hover {
+	color: white;
+	background-color: maroon;
+}

@@ -1,0 +1,43 @@
+﻿Maxor Videó Televízió
+<p>A Maxor Videó Televízió a Maxor fő videófájlsorozata. Minden adás tartalmaz egy műsort, híreket, időjárás-jelentést és hírdetéseket. 2010. júniusában lett öt éves ez a kiadvány!</p>
+<p>Jó szórakozást kívánunk a megtekintéséhez!</p>
+<p>Szerkesztő: Elekes Dávid</p>
+<h3>Műsorok</h3>
+<dl>
+				
+				<h4>Híradó</h4>
+				
+				<dt>Beszámoló a Maxor Híreiről, részletesebben.</dt>
+				<h4>
+							Időjárás</h4>
+				<dt>Tíz napos képes előrejelzés az időjárásról.</dt>
+				<h4>
+				Reklámok, hirdetések</h4>
+				<dt>Maxoros kiadványok és egyéb más termékek hírdetései</dt>
+				<h4>
+				Madárhanggyűjtemény				</h4>
+				<dt>Az évszakra jellemző madárhangok, kizárólag saját archívumból.</dt>
+			</dl>
+
+<h3>Ráadás műsor</h3>
+<p>Adásonként változó műsorokról van szó.</p>
+<h4>Idő-zavar</h4>
+<blockquote>
+  <p class="style1">Humoros jelenetösszeállítás, saját ötletekből. Szerepel: Béni Csaba és Elekes Dávid.  </p>
+</blockquote>
+<h4>Rajzfilm&nbsp; (32. adás)</h4>
+<dl>
+				<dt>Saját készítésű rövid rajzfilmek Béni Csaba saját maga 
+				alkotott figurájával, Bardoggal és még mással.</dt>
+</dl>
+<h4>Ötvenhat! (32. adás)</h4>
+<dl>
+				<dt>Elekes Dávid saját képei a 2006. október 23-ai gyűlésről, 
+				majd tömegoszlatásról. Saját hangok hallhatók a háttérben a 
+				helyszínről és az eseményről.</dt>
+</dl>
+<h4>Augusztus 20-ai ünnepi kiadás (31. adás)</h4>
+<dl>
+				<dt>Kölcsey Ferenc: Huszt c. versének bemutatása képekkel és 
+				zenei aláfestéssel.</dt>
+</dl>

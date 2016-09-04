@@ -1,0 +1,7 @@
+﻿Javítások az Imager oldalon
+2011-05-31-12-16-33
+Elekes Dávid
+in.jpg
+Az Imager oldala 2011 februárjában épült össze a jelenlegi formájában. Azóta több hiba felbukkant benne, de azok időhiány miatt nem kerültek kijavításra. Például rossz dátumok jelentek meg a cikkeknél, letöltéseknél, és a médiatárban egy, a kódban szereplő apró elírás miatt. Emiatt rossz sorrendben szerepeltek a feltöltött anyagok (volt ahol 2035 jelent meg évként!). Ez most kijavításra került és remélhetőleg már nem jelentkezik újra.
+Ezzel azonban még nincs vége, mert a médiatárban a lejátszó bizonyos böngészőkkel és platformokkal nem működik együtt. Ez nehezebb probléma.
+A hibákat igyekszünk a nyáron kijavítani és néhány bővítés is várható, továbbá grafikai fejlesztés.

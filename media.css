@@ -1,0 +1,122 @@
+﻿.cont h5 {
+	font-size: 11px;
+	font-family: arial, Helvetica, sans-serif;
+}
+
+.cont {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	background-color: #0F1328;
+	margin: 10px;
+	padding: 15px;
+	color: #E2E4EB;
+}
+
+hr {
+	border: 3px dotted #003366;
+}
+
+.cont p {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color: #212958;
+	color: #FFFFFF;
+}
+
+h1 {
+	font-size: 20pt;
+}
+
+h1, h2, h3 {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+	color: #99CCFF;
+}
+
+.war {
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #CC0000;
+	border: thin solid #8C4740;
+	background-image: url(/warbk.png);
+	padding: 5px;
+}
+
+a {
+	color: #FFCC33;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFCC99;
+	background-color: #333399;
+}
+
+a:link {
+	color: #FF9900;
+}
+
+.mnuitem a {
+	color: #CCFFFF;
+	text-decoration: none;
+}
+
+.mnuitem a:hover {
+	color: #FFFF99;
+}
+
+.mnuheader {
+	font-family: "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #3366CC;
+	background-color: #33CCFF;
+	text-indent: 5px;
+	font-weight: bolder;
+	background-image: url(menub1.jpg);
+}
+
+.mnuitem {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #CCFFFF;
+	background-color: #999900;
+	text-indent: 10px;
+	background-image: url(menub2.jpg);
+}
+
+.mnuback {
+	font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FFFFCC;
+	background-color: #993300;
+	margin: 3px;
+	background-image: url(menuback.png);
+}
+
+.nopicborder {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	border: solid;
+	border-width: 0;
+}
+
+.nopicborder a {
+	border-width: 0;
+}
+
+.medlist {
+	background-color: #1A2044;
+	padding: 10px;
+	border: thin solid #394795;
+	font-size: 8pt;
+}
+
+.medlist p {
+	font-size: 10pt;
+}

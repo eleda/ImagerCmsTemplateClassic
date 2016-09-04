@@ -1,0 +1,3 @@
+﻿Infra szoftverek
+<p>Az Infra szoftverei a Maxor szoftverei.</p>
+<p>Infra néven már 2001 óta készülnek szoftverek, többféle operációs rendszer, régebben DOS, most Windows alá. Saját készítésű, egyszerű programok, játékok és sok más!</p>

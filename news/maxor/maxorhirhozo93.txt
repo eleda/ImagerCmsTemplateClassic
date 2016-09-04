@@ -1,0 +1,8 @@
+﻿Megjelent a Maxor Hírhozó 93. kiadása!
+2011-01-29-12-00
+Elekes Dávid
+maxor.jpg
+<p>Megjelent a Maxor Hírhozó legújabb kiadása, új hírekkel, infókkal, jó cikkekkel, humorral.</p>
+<p>Innen tölthető le:</br>
+<a href='downloads.php?view=downloads&category=maxorhirhozo'>Maxor Hírhozó letöltő oldala</a></p>
+<p>Ide került az összes többi régebbi Maxor Hírhozó is. A régi helyen már nem érhetők el.</p>

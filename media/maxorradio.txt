@@ -1,0 +1,50 @@
+﻿Maxor Rádió
+<p>A Maxor Rádió a Maxor hangfájlsorozata, Maxor hírekkel, műsorokkal, időjárás-jelentésekkel és hirdetésekkel! Egy profi Maxor kiadvány!</p>
+<p>Öt éves lett a Maxor Rádió! 2005. október 23-án indult.</p>
+<p>Jó hallgatást!</p>
+<p>Szerkesztő: Elekes Dávid<br />
+Vendég: Béni Csaba.</p>
+<hr />
+<p>
+								A Maxor Rádió eddigi műsorai a következők:</p>
+<h3>
+								Maxor műsorok és egyéb információs műsorok:</h3>
+<ul>
+				<li>Maxor Híradó: összefoglalja a Maxor híreit, esetleg 
+				beszélgetést is hallhatnak a Maxor eseményeiről</li>
+				<li>Maxor Információ: beszámol a Maxor statisztikai adatairól.</li>
+				<li>Időjárás: az aznapi időjárás + előrejelzés.</li>
+				<li>Hirdetések, közérdekű közlemények.</li>
+</ul>
+<h3>Kultúra és egyéb, nem Maxor műsor (időszakonként):</h3>
+<dl>
+				<h4>Szótár</h4>
+				<dt>Öt-öt szó, kifejezés ismertetése.</dt>
+				<h4>Középkori templomok</h4>
+				<dt>Középkorban épült magyar templomokat mutat be ez a műsor.</dt>
+				<h4>Bölcsesség:</h4>
+				<dt>Elgondolkodtató szállóige, aforizma, bölcsesség egy híres embertől.</dt>
+				<h4>Jegyzet:</h4>
+				<dt>Jegyzet vagy cikk, mely valamilyen érdekes dolog vagy esemény apropojából 
+íródott.</dt>
+				<h4>
+				Madárhanggyűjtemény
+				</h4>
+				<dt>Az évszakra jellemző madárhangok, kizárólag saját archívumból.</dt>
+				<h4>
+				A gondolatok hangja
+				</h4>
+				<dt>Elmélkedős műsor.</dt>
+				<h4>
+				Ez kész vicc!
+				</h4>
+				<dt>Saját magunk által írt humoros jelenet, szkeccs a Maxor rádióban.</dt>
+				<h4>
+				A bitek mögött
+				</h4>
+				<dt>Érdekességek az informatikából és a számítástechnikából, melyet mi is 
+kipróbálhatunk!</dt>
+				<h4>
+				Hangos barangolás
+				</h4>
+				<dt>Egy helyszín bemutatása, élesben.

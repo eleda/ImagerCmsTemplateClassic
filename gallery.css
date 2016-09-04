@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+body {
+	background-color: #DDE4D6;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.gtab {
+	background-color: #CCFFCC;
+	background-image: url(gtab_dark.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: "Treubchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000033;
+	text-indent: 8px;
+}
+
+.gtabactive {
+	background-color: #CCFFCC;
+	background-image: url(gtab.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: "Treubchet MS", Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000033;
+	text-indent: 8px;
+}
+
+.gtab a, .gtabactive a {
+	color: #336600;
+	text-decoration: none;
+}
+
+.gtab a:hover, .gtabactive a:hover {
+	color: #339900;
+	text-decoration: none;
+	background-color: none;
+}
+
+.pag {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	border: thin outset #CCCCCC;
+	margin: 10px;
+	padding: 10px;
+}
+
+p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #333300;
+}
+
+a {
+	color: #336600;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FFFF99;
+	background-color: #FFCC66;
+}
+
+.ilink a {
+	border: thin solid #FFFFCC;
+}
+
+.ilink a:hover {
+	border: thin outset #999999;
+}
+
+h1 {
+	font-size: 16pt;
+	color: #333366;
+}
+
+h3 {
+	font-size: 12pt;
+	color: #000066;
+	font-weight: lighter;
+}
